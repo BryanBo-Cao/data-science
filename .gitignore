@@ -1,3 +1,9 @@
 *.DS_Store
+*/data
 *.log
+*.log.*
+*.log.fn
+*log*
 *.tar.gz
+*.csv
+all*log
